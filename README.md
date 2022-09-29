@@ -8,7 +8,12 @@ free to use it on your machine / network.
 
 ## Usage
 
-To start PortHUB open CMD / PowerShell / Terminal Window and the command above.
+To download use the command:
+```cmd
+git clone https://github.com/SheL3G/PortHUB.git
+```
+
+To start PortHUB go to the repository directory and open CMD / PowerShell / Terminal Window and the command above:
 ```python
 python3 PortHUB.py
 ```
